@@ -57,7 +57,7 @@ jobs:
       #     bin/brakeman -q -w2
 
       - name: Run unit tests
-        run: bundle exec rspec
+        run: bundle exec rails test
       # - name: Run integration tests
       #   run: bundle exec cucumber
 
