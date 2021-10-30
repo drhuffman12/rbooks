@@ -77,3 +77,5 @@ gem 'ofx', '~> 0.3.2' , github: 'annacruz/ofx', branch: 'master'
 gem 'font-awesome-sass', '~> 5.12.0'
 gem 'activerecord_where_assoc', '~> 1.0'
 
+
+gem "rubocop", "~> 1.22"
